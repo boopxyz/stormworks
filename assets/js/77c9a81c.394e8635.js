@@ -1,0 +1,1 @@
+(self.webpackChunkextadmincommands=self.webpackChunkextadmincommands||[]).push([[724],{3121:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/stormworks/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/stormworks/blog/tags/docusaurus"}')}}]);

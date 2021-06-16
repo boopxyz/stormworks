@@ -1,0 +1,1 @@
+(self.webpackChunkextadmincommands=self.webpackChunkextadmincommands||[]).push([[361],{1446:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/stormworks/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
