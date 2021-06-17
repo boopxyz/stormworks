@@ -1,0 +1,1 @@
+(self.webpackChunkextadmincommands=self.webpackChunkextadmincommands||[]).push([[578],{5832:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/workshop/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/workshop/blog/tags/docusaurus"}')}}]);

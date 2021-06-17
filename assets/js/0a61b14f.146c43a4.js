@@ -1,0 +1,1 @@
+(self.webpackChunkextadmincommands=self.webpackChunkextadmincommands||[]).push([[293],{5363:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/workshop/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/workshop/blog/tags/hello"}')}}]);

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Stormworks Extensive Admin Commands Blog</title>
-        <link>https://boopxyz.github.io/stormworks/blog</link>
-        <description>Stormworks Extensive Admin Commands Blog</description>
+        <title>Boops Workshop Blog</title>
+        <link>https://boopxyz.github.io/workshop/blog</link>
+        <description>Boops Workshop Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://boopxyz.github.io/stormworks/stormworks/blog/welcome</link>
+            <link>https://boopxyz.github.io/workshop/workshop/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://boopxyz.github.io/stormworks/stormworks/blog/hello-world</link>
+            <link>https://boopxyz.github.io/workshop/workshop/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://boopxyz.github.io/stormworks/stormworks/blog/hola</link>
+            <link>https://boopxyz.github.io/workshop/workshop/blog/hola</link>
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
